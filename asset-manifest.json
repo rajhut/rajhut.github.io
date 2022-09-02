@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d293f769.css",
+    "main.js": "/static/js/main.7eeda30a.js",
+    "static/js/787.98498dfe.chunk.js": "/static/js/787.98498dfe.chunk.js",
+    "static/media/background-clients.jpg": "/static/media/background-clients.aef1325b053aee698d4d.jpg",
+    "static/media/portrait-servers.jpg": "/static/media/portrait-servers.f1271ec9373d32a4dda9.jpg",
+    "static/media/image2.webp": "/static/media/image2.23330861039a5ac7fabe.webp",
+    "static/media/image3.webp": "/static/media/image3.635173d7d990031d9030.webp",
+    "static/media/image1.webp": "/static/media/image1.22f92e8533d20bdbc863.webp",
+    "static/media/agrihusac.jpg": "/static/media/agrihusac.56eb2bc672fc74f48bb8.jpg",
+    "index.html": "/index.html",
+    "main.d293f769.css.map": "/static/css/main.d293f769.css.map",
+    "main.7eeda30a.js.map": "/static/js/main.7eeda30a.js.map",
+    "787.98498dfe.chunk.js.map": "/static/js/787.98498dfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d293f769.css",
+    "static/js/main.7eeda30a.js"
+  ]
+}
